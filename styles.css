@@ -32,8 +32,8 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #d72e2e;
-  color: rgb(240, 46, 46);
+  background-color: #0b0edf;
+  color: rgb(22, 97, 27);
 }
 
 .flex-container {
@@ -50,5 +50,5 @@ footer {
   margin-top: 20px;
   text-align: center;
   font-style: italic;
-  color: #973232;
+  color: #060202;
 }
